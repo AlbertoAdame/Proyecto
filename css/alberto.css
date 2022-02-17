@@ -1,0 +1,56 @@
+#color_letras{
+    color: black;
+}
+.blog__item.latest__item h4:hover{
+    color: black;
+}
+
+.col-lg-4.blog__item.latest__item:hover{
+    color: black;
+}
+
+#color_leerMas:hover{
+    color: coral;
+}
+
+.table{
+    margin: 0;
+    padding: 0;
+    border: 3px solid #100424 ;
+    background-color: #100424 ; 
+}
+
+.video{
+    padding: 0;
+    margin-top: 50px;
+}
+
+.espacio{
+    padding-top: 25px;
+
+}
+
+.bordes{
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 100%); 
+    margin: 10px;
+}
+
+#ol{
+    margin-left: 40px;
+    color: rgb(194, 194, 194);
+}
+
+td{
+    margin: 0;
+    padding: 0;
+}
+
+tr{
+    margin: 0;
+    padding: 0;
+
+}
+
+
+
